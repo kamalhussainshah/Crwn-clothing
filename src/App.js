@@ -6,7 +6,7 @@ import HomePage from './homepage.component';
 function App() {
   return (
     <div>
-      <HomePage />
+      <HomePage />         
     </div>
   );
 }
